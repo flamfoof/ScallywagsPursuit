@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45f2d09b98acad42b866a07f1bcf43f, type: 3}
+  m_Name: Poortuga
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Poortuga
+  type: Island
+  income: 2.5999997
+  wood: 0.71999997
+  growthRate: 0.1
+  resource: 7.9229994
+  hasCapn: 1
+  defaultIncome: 2
+  defaultWood: 1
+  defaultGrowthRate: 0.2
+  defaultResource: 4

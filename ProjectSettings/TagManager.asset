@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - Island
+  - Base
+  - EnemyB
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  - Salvage
+  - Dialogue
+  - cd
+  - BoundaryWarning
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1968516929
+    locked: 0
+  - name: Land
+    uniqueID: 2544275825
+    locked: 0
+  - name: Salvage
+    uniqueID: 3179297571
+    locked: 0
+  - name: Player
+    uniqueID: 126535021
+    locked: 0
